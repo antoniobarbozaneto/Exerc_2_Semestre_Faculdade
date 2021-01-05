@@ -1,0 +1,16 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int res=0,v;
+            for (int i = 1; i <11; i++)
+            {
+				Console.WriteLine("insira um valor: "); 
+				v = Convert.ToInt32(Console.ReadLine());
+                res = (res + v);
+            }
+            Console.WriteLine("A soma dos 10 numeros é: " +res);           				   
+	}
+}

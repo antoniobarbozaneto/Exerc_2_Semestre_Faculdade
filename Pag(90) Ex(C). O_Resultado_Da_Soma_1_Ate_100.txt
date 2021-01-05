@@ -1,0 +1,14 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int res = 0;
+            for (int i = 0; i < 101; i++)
+            {
+                res = (res + i);
+            }
+            Console.WriteLine("O resultado da soma de 1 até 100 é: " + res);           				   
+	}
+}

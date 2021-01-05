@@ -1,0 +1,21 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int valor;
+		
+		Console.WriteLine("Insira um valor: ");
+		valor = Convert.ToInt32(Console.ReadLine());
+		
+		if (valor % 2 ==0 )
+		{
+			Console.WriteLine("o valor "+valor+" é PAR!!!");
+		}
+		else
+		{
+			Console.WriteLine("o valor "+valor+" é IMPAR!!!");
+		}
+	}
+}

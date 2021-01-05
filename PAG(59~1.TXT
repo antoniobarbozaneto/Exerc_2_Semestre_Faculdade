@@ -1,0 +1,26 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int a,b,c;
+		
+		Console.WriteLine("Informe um valor de A: ");
+		a = Convert.ToInt32(Console.ReadLine());
+		Console.WriteLine("Informe um valor de B: ");
+		b = Convert.ToInt32(Console.ReadLine());
+		
+		if(a>b)
+		{
+			c = (a - b);
+		}
+		else
+		{
+			c = ( b - a);
+		}
+		
+		Console.WriteLine("O valor da diferença do Menor é: "+c);
+			
+	}
+}
