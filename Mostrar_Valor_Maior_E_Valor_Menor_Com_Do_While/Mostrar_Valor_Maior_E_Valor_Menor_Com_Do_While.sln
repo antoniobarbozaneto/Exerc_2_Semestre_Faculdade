@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mostrar_Valor_Maior_E_Valor_Menor_Com_Do_While", "Mostrar_Valor_Maior_E_Valor_Menor_Com_Do_While.csproj", "{1CF3D6FC-6CAB-4A65-853A-88E1F5ECDE62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CF3D6FC-6CAB-4A65-853A-88E1F5ECDE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF3D6FC-6CAB-4A65-853A-88E1F5ECDE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF3D6FC-6CAB-4A65-853A-88E1F5ECDE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF3D6FC-6CAB-4A65-853A-88E1F5ECDE62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3880126-54AA-4FDC-B9FE-72949F934D4A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\neto_\source\repos\Saque Banco com DIV e MOD (DIFERENTE)\bin\Debug\Saque Banco com DIV e MOD (DIFERENTE).exe.config
+C:\Users\neto_\source\repos\Saque Banco com DIV e MOD (DIFERENTE)\bin\Debug\Saque Banco com DIV e MOD (DIFERENTE).exe
+C:\Users\neto_\source\repos\Saque Banco com DIV e MOD (DIFERENTE)\bin\Debug\Saque Banco com DIV e MOD (DIFERENTE).pdb
+C:\Users\neto_\source\repos\Saque Banco com DIV e MOD (DIFERENTE)\obj\Debug\Saque Banco com DIV e MOD (DIFERENTE).csprojAssemblyReference.cache
+C:\Users\neto_\source\repos\Saque Banco com DIV e MOD (DIFERENTE)\obj\Debug\Saque Banco com DIV e MOD (DIFERENTE).csproj.CoreCompileInputs.cache
+C:\Users\neto_\source\repos\Saque Banco com DIV e MOD (DIFERENTE)\obj\Debug\Saque Banco com DIV e MOD (DIFERENTE).exe
+C:\Users\neto_\source\repos\Saque Banco com DIV e MOD (DIFERENTE)\obj\Debug\Saque Banco com DIV e MOD (DIFERENTE).pdb

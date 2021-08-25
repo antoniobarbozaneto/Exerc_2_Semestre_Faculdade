@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrizB_Recebe_Valores_MatrizA_Multiplica_Por_2_Se_For_Impar", "MatrizB_Recebe_Valores_MatrizA_Multiplica_Por_2_Se_For_Impar.csproj", "{5F83C03A-7753-41D9-B8B3-7A3F00F1B3E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F83C03A-7753-41D9-B8B3-7A3F00F1B3E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F83C03A-7753-41D9-B8B3-7A3F00F1B3E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F83C03A-7753-41D9-B8B3-7A3F00F1B3E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F83C03A-7753-41D9-B8B3-7A3F00F1B3E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D881C0B-FE9C-4295-BA91-739CB191E53F}
+	EndGlobalSection
+EndGlobal

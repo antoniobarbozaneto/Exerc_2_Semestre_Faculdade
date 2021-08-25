@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrizB_Somatorio_Dos_Elementos_Da_Matriz_A", "MatrizB_Somatorio_Dos_Elementos_Da_Matriz_A.csproj", "{CE0FB5DA-AACB-468C-92C9-DC153334C0DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE0FB5DA-AACB-468C-92C9-DC153334C0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0FB5DA-AACB-468C-92C9-DC153334C0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0FB5DA-AACB-468C-92C9-DC153334C0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0FB5DA-AACB-468C-92C9-DC153334C0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16833EE2-50F4-4FDA-B945-9897CC017C0C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\neto_\Desktop\NETO PANIGASSI\ADS - UNIP (2 SEMESTRE)\MATÉRIAS PRESENCIAIS\LINGUAGEM TÉC. PROGRAMAÇÃO (PROF. ERNESTO)\Exercícios C - Console\Conta_Luz_Consumo\bin\Debug\Conta_Luz_Consumo.exe.config
+C:\Users\neto_\Desktop\NETO PANIGASSI\ADS - UNIP (2 SEMESTRE)\MATÉRIAS PRESENCIAIS\LINGUAGEM TÉC. PROGRAMAÇÃO (PROF. ERNESTO)\Exercícios C - Console\Conta_Luz_Consumo\bin\Debug\Conta_Luz_Consumo.exe
+C:\Users\neto_\Desktop\NETO PANIGASSI\ADS - UNIP (2 SEMESTRE)\MATÉRIAS PRESENCIAIS\LINGUAGEM TÉC. PROGRAMAÇÃO (PROF. ERNESTO)\Exercícios C - Console\Conta_Luz_Consumo\bin\Debug\Conta_Luz_Consumo.pdb
+C:\Users\neto_\Desktop\NETO PANIGASSI\ADS - UNIP (2 SEMESTRE)\MATÉRIAS PRESENCIAIS\LINGUAGEM TÉC. PROGRAMAÇÃO (PROF. ERNESTO)\Exercícios C - Console\Conta_Luz_Consumo\obj\Debug\Conta_Luz_Consumo.csprojAssemblyReference.cache
+C:\Users\neto_\Desktop\NETO PANIGASSI\ADS - UNIP (2 SEMESTRE)\MATÉRIAS PRESENCIAIS\LINGUAGEM TÉC. PROGRAMAÇÃO (PROF. ERNESTO)\Exercícios C - Console\Conta_Luz_Consumo\obj\Debug\Conta_Luz_Consumo.csproj.CoreCompileInputs.cache
+C:\Users\neto_\Desktop\NETO PANIGASSI\ADS - UNIP (2 SEMESTRE)\MATÉRIAS PRESENCIAIS\LINGUAGEM TÉC. PROGRAMAÇÃO (PROF. ERNESTO)\Exercícios C - Console\Conta_Luz_Consumo\obj\Debug\Conta_Luz_Consumo.exe
+C:\Users\neto_\Desktop\NETO PANIGASSI\ADS - UNIP (2 SEMESTRE)\MATÉRIAS PRESENCIAIS\LINGUAGEM TÉC. PROGRAMAÇÃO (PROF. ERNESTO)\Exercícios C - Console\Conta_Luz_Consumo\obj\Debug\Conta_Luz_Consumo.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Troca_Valor_de_A_e_B", "Troca_Valor_de_A_e_B.csproj", "{76C89551-F353-4046-8791-B6CAC179295D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76C89551-F353-4046-8791-B6CAC179295D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C89551-F353-4046-8791-B6CAC179295D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C89551-F353-4046-8791-B6CAC179295D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C89551-F353-4046-8791-B6CAC179295D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {409A304B-DB47-453C-B1CB-5FBE13EF2510}
+	EndGlobalSection
+EndGlobal

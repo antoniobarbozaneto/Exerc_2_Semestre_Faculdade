@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mostrar_Valor_Maior_que_3_usando_operador_logico_NAO", "Mostrar_Valor_Maior_que_3_usando_operador_logico_NAO.csproj", "{A9C42A26-ECC8-4219-A787-607A7A12965D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9C42A26-ECC8-4219-A787-607A7A12965D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C42A26-ECC8-4219-A787-607A7A12965D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C42A26-ECC8-4219-A787-607A7A12965D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C42A26-ECC8-4219-A787-607A7A12965D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5424D31A-73F1-48E4-BA99-9C945D725990}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\neto_\source\repos\Saque Banco MOEDAS e NOTAS\bin\Debug\Saque Banco MOEDAS e NOTAS.exe.config
+C:\Users\neto_\source\repos\Saque Banco MOEDAS e NOTAS\bin\Debug\Saque Banco MOEDAS e NOTAS.exe
+C:\Users\neto_\source\repos\Saque Banco MOEDAS e NOTAS\bin\Debug\Saque Banco MOEDAS e NOTAS.pdb
+C:\Users\neto_\source\repos\Saque Banco MOEDAS e NOTAS\obj\Debug\Saque Banco MOEDAS e NOTAS.csprojAssemblyReference.cache
+C:\Users\neto_\source\repos\Saque Banco MOEDAS e NOTAS\obj\Debug\Saque Banco MOEDAS e NOTAS.csproj.CoreCompileInputs.cache
+C:\Users\neto_\source\repos\Saque Banco MOEDAS e NOTAS\obj\Debug\Saque Banco MOEDAS e NOTAS.exe
+C:\Users\neto_\source\repos\Saque Banco MOEDAS e NOTAS\obj\Debug\Saque Banco MOEDAS e NOTAS.pdb
